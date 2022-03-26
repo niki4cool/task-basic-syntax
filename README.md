@@ -1,4 +1,4 @@
-# Basic Syntax
+np# Basic Syntax
 
 Установите зависимости:
 
